@@ -1,0 +1,16 @@
+{
+  "name": "trademark-checker",
+  "version": "1.0.0",
+  "description": "WIPO checking tool.",
+  "main": "trademark.js",
+  "dependencies": {
+    "puppeteer": "^10.1.0",
+    "table": "^6.7.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
